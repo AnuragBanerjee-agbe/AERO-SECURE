@@ -1,0 +1,6 @@
+{
+  "name": "Aero Secure",
+  "description": "Secure physical VPN gateway dashboard routing premium traffic through India, USA, and UK servers with real-time speedometers and automated SQL log audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
